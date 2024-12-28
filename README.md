@@ -49,7 +49,7 @@ Live Project URL: [Apple Watch Studio UI Clone](https://example-deployed-url.com
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/your-username/apple-watch-studio-ui.git
+git clone https://github.com/Svenucreater2050/apple-watch-studio-ui.git
 cd apple-watch-studio-ui
 
 
